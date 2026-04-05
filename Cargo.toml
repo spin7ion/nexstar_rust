@@ -1,0 +1,13 @@
+[package]
+name = "nexstar_lib"
+version = "0.1.0"
+edition = "2021"
+description = "Celestron NexStar serial protocol: command building and response parsing"
+documentation = "https://docs.rs/nexstar_lib"
+readme = "README.md"
+license = "MIT OR Apache-2.0"
+keywords = ["nexstar", "celestron", "telescope", "protocol", "mount"]
+categories = ["encoding", "science"]
+exclude = [".idea/"]
+
+[dependencies]
