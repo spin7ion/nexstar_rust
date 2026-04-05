@@ -2,7 +2,7 @@
 //!
 //! Run: `cargo run --example build_commands`
 
-use nexstar_lib::{
+use nexstar_rust::{
     build_get_ra_dec_command, build_get_version_command, build_goto_ra_dec_command,
     build_set_tracking_mode_command, NexstarTrackingMode,
 };

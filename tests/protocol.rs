@@ -1,6 +1,6 @@
 //! Golden vectors for command bytes and response parsing.
 
-use nexstar_lib::{
+use nexstar_rust::{
     build_cancel_goto_command, build_direct_motor_command, build_get_azm_alt_command,
     build_get_device_version, build_get_gps_linked_command, build_get_gps_time_command,
     build_get_latitude_command, build_get_location_command, build_get_longitude_command,

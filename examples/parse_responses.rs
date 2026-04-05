@@ -2,7 +2,7 @@
 //!
 //! Run: `cargo run --example parse_responses`
 
-use nexstar_lib::{
+use nexstar_rust::{
     build_get_ra_dec_command, build_get_version_command, NexstarParsedResponse,
 };
 

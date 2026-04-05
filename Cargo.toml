@@ -1,10 +1,13 @@
 [package]
-name = "nexstar_lib"
+name = "nexstar_rust"
 version = "0.1.0"
 edition = "2021"
+authors = ["Alexander Semion <spin7ion@gmail.com>"]
 description = "Celestron NexStar serial protocol: command building and response parsing"
-documentation = "https://docs.rs/nexstar_lib"
+documentation = "https://docs.rs/nexstar_rust"
 readme = "README.md"
+homepage = "https://github.com/spin7ion/nexstar_rust"
+repository = "https://github.com/spin7ion/nexstar_rust"
 license = "MIT OR Apache-2.0"
 keywords = ["nexstar", "celestron", "telescope", "protocol", "mount"]
 categories = ["encoding", "science"]
